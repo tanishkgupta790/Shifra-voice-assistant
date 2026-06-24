@@ -45,7 +45,7 @@ It listens to your voice, understands commands, responds by speaking, and perfor
 
 ## 🧩 Project Structure
 
-shifra-voice-assistant/
+shifra-voice-assistan
 │
 ├── index.html # Main HTML page
 ├── style.css # Styling for UI
